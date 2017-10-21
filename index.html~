@@ -31,7 +31,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Lets get talking</a>
+         <!--<a class="navbar-brand js-scroll-trigger" href="#About">Lets get talking</a>-->
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -75,8 +75,8 @@
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading text-white">About Me</h2>
             <hr class="light">
-            <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-            <a class="btn btn-default btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+            <p class="text-faded">I'm a professional  web developer,currently based in Nairobi, Kenya. I have a passion for web development and love to create websites.I develop what you will like.</p>
+            <!--<a class="btn btn-default btn-xl js-scroll-trigger" href="#services">Get Started!</a>-->
           </div>
         </div>
       </div>
@@ -114,7 +114,7 @@
               <p class="text-muted">We keep update dependencies inorder to keep things fresh and stunning.</p>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 text-center">
+         <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box">
               <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
               <h3>Made with Love</h3>
@@ -126,6 +126,11 @@
     </section>
 
     <section class="p-0" id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">My works</h2>
+            <hr class="primary">
       <div class="container-fluid">
         <div class="row no-gutter popup-gallery">
           <div class="col-lg-4 col-sm-6">
@@ -221,13 +226,16 @@
         </div>
       </div>
     </section>
-
+<!--
     <div class="call-to-action bg-dark">
       <div class="container text-center">
         <h2>Free web hosting for first year after development. Hurry Hurry!</h2>
         <a class="btn btn-default btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Make a call now!</a>
       </div>
     </div>
+-->
+	
+
 
     <section id="contact">
       <div class="container">
@@ -244,7 +252,7 @@
             <p>+254727144215</p>
           </div>
           <div class="col-lg-4 mr-auto text-center">
-            <i class="fa fa-envelope-o" fa-3x sr-contact"></i>
+            <i class="fa fa-envelope-o" aria-hidden="true"></i>
             <p>
               <a href="wenslastambasi@gmail.com">Wenslas Ahura</a>
             </p>
@@ -254,10 +262,10 @@
             <p>
               <a href="https://ke.linkedin.com/in/wenslas-ahura-260072144">Linkedin</a>
             </p>
-	<div class="col-lg-4 mr-auto text-center">
+	<!--<div class="col-lg-4 mr-auto text-center">
             <i class="fa fa-github" fa-3x sr-contact"></i>
             <p>
-              <a href="https://github.com/wensahura">Github</a>
+              <a href="https://github.com/wensahura">Github</a>-->
             </p>
           </div>
         </div>
